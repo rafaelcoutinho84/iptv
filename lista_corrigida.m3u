@@ -1,0 +1,8 @@
+
+#EXTM3U
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT [4K]" tvg-logo="https://i.imgur.com/s99Fd0l.png" group-title="Canais | TNT",TNT [4K]
+http://play.biturl.vip/live/RafaelRodrigoelson/zuq3cp0sduf/215404.m3u8
+#EXTINF:-1 tvg-id="sbtnovelas.br" tvg-name="+SBT Novelas" tvg-logo="https://i.imgur.com/As98iql.png" group-title="Canais | SBT",+SBT Novelas
+http://play.biturl.vip/live/RafaelRodrigoelson/zuq3cp0sduf/214335.m3u8
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E" tvg-logo="https://i.imgur.com/nUrChh4.png" group-title="Canais | Filmes e Series",A&E
+http://play.biturl.vip/live/RafaelRodrigoelson/zuq3cp0sduf/37130.m3u8
