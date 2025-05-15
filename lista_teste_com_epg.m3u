@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="globo.sp" tvg-name="Globo SP" group-title="Canais Abertos",Globo SP
+http://test.server/globo_sp.m3u8
+#EXTINF:-1 tvg-id="record.sp" tvg-name="Record SP" group-title="Canais Abertos",Record SP
+http://test.server/record_sp.m3u8
+#EXTINF:-1 tvg-id="sbt.sp" tvg-name="SBT SP" group-title="Canais Abertos",SBT SP
+http://test.server/sbt_sp.m3u8
