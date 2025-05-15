@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv source-info-name="EPG Modelo Brasil" generator-info-name="OpenAI EPG Model">
+  <channel id="globo.sp">
+    <display-name>Globo SP</display-name>
+  </channel>
+  <channel id="record.sp">
+    <display-name>Record SP</display-name>
+  </channel>
+  <channel id="sbt.sp">
+    <display-name>SBT SP</display-name>
+  </channel>
+
+  <programme start="20250515000000 +0000" stop="20250515030000 +0000" channel="globo.sp">
+    <title>Programa 00h - Globo SP</title>
+    <desc>Grade genérica de teste para Globo SP.</desc>
+  </programme>
+  <programme start="20250515000000 +0000" stop="20250515030000 +0000" channel="record.sp">
+    <title>Programa 00h - Record SP</title>
+    <desc>Grade genérica de teste para Record SP.</desc>
+  </programme>
+  <programme start="20250515000000 +0000" stop="20250515030000 +0000" channel="sbt.sp">
+    <title>Programa 00h - SBT SP</title>
+    <desc>Grade genérica de teste para SBT SP.</desc>
+  </programme>
+</tv>
